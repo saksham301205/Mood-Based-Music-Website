@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 MoodTunes — Mood-Based Music Recommender
 
 A full-stack React + Node.js + MySQL web app with 4 pages:
@@ -139,3 +140,7 @@ GET    /api/favourites        Get user's favourites  [Auth]
 POST   /api/favourites        Add a favourite        [Auth]
 DELETE /api/favourites/:id    Remove a favourite     [Auth]
 ```
+=======
+# Mood-Based-Music-Website
+🎵 MoodTunes — A full-stack mood-based music recommender built with React.js, Node.js, Express &amp; MySQL. Pick a mood (Happy, Sad, Relaxed, Energetic) and get personalised Hindi &amp; English song recommendations. Features JWT auth, favourites, auto album art &amp; mood-themed backgrounds.
+>>>>>>> 8b5d8fc97dca40629cf6598a159d81e55915340c
